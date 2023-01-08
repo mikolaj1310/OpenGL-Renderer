@@ -1,0 +1,16 @@
+﻿  Main.cpp
+c:\uni\games programming\graphicsprogramming\camera.h(39): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\uni\games programming\graphicsprogramming\scene.h(64): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Model.cpp
+c:\uni\games programming\graphicsprogramming\model.cpp(130): warning C4018: '<': signed/unsigned mismatch
+  Scene.cpp
+c:\uni\games programming\graphicsprogramming\camera.h(39): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\uni\games programming\graphicsprogramming\scene.h(64): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\uni\games programming\graphicsprogramming\scene.cpp(205): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\uni\games programming\graphicsprogramming\scene.cpp(223): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\uni\games programming\graphicsprogramming\scene.cpp(251): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\uni\games programming\graphicsprogramming\scene.cpp(318): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\uni\games programming\graphicsprogramming\scene.cpp(342): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Shape.cpp
+  Generating Code...
+  GraphicsProgramming.vcxproj -> C:\Uni\Games Programming\Debug\GraphicsProgramming.exe
